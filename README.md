@@ -11,13 +11,12 @@ I'm always eager to learn, collaborate, and connect with others in the field. Fe
 Together, let's secure the digital future!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Creating a Live SOC/Honeynet in Azure         | <a href="https://github.com/Shae-J/Cloud-Honeynet">Cloud-Honeynet Lab</a>|
 | Vulnerability Management Lab with Nessus| <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response         | <a href="https://github.com/Shae-J/Incident Response Lab">Incident Response Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
