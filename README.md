@@ -15,7 +15,7 @@ Together, let's secure the digital future!
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Creating a Live SOC/Honeynet in Azure         | <a href="https://github.com/Shae-J/Cloud-Honeynet">Detection Lab</a>|
+| Creating a Live SOC/Honeynet in Azure         | <a href="https://github.com/Shae-J/Cloud-Honeynet">Cloud-Honeynet Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
