@@ -1,15 +1,15 @@
 <h1>Hi, I'm Shae! Welcome to my GitHub! I’m a Cybersecurity Analyst passionate about threat detection and mitigation.  </h1>   
 <a href="https://linkedin.com/in/shae-jackson601"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!--
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm currently a Cyber Analyst with a passion for expanding my expertise into Cloud Security. My ultimate goal is to transition into a Cloud Security Specialist role and grow into a Governance, Risk, and Compliance (GRC) professional.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+My work revolves around understanding security threats, mitigating risks, and ensuring best practices are applied in various cybersecurity domains. Here on GitHub, you'll find projects that highlight my journey—from incident response and threat analysis to exploring cloud security solutions and aligning with compliance frameworks.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm always eager to learn, collaborate, and connect with others in the field. Feel free to explore my projects, contribute, or get in touch!
 
+Together, let's secure the digital future!
+<!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
