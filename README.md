@@ -1,5 +1,5 @@
 <h1>Hi, I'm Shae! Welcome to my GitHub! I’m a Cybersecurity Analyst passionate about threat detection and mitigation.  </h1>   
-<a href="https://linkedin.com/shae-jackson601"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shae-jackson601"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 [Brief Introduction - Remove this afterwards]
 
