@@ -18,7 +18,7 @@ Together, let's secure the digital future!
 | Vulnerability Management Lab with Nessus| <a href="https://github.com/Shae-J/Vulnerability-Managment">Vulnerability-Managment</a>|
 | Incident Response         | <a href="https://github.com/Shae-J/Incident-Response">Incident Response Lab</a>|
 | Security with AWS: Identity and Access Management (IAM)      | <a href="https://github.com/Shae-J/Identity and Access Management">Identity and Access Management (IAM)</a> |
-| Lab               | SOC Lab|
+| COMING SOON Active Director Lab               | SOC Lab|
 | Lab | SOC Lab|
 <!--
 ## Tools
