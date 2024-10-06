@@ -16,7 +16,7 @@ Together, let's secure the digital future!
 |-----------------------------------------------|----------------------------|
 | Creating a Live SOC/Honeynet in Azure         | <a href="https://github.com/Shae-J/Cloud-Honeynet">Cloud-Honeynet Lab</a>|
 | Vulnerability Management Lab with Nessus| <a href="https://github.com/Shae-J/Vulnerability-Managment">Vulnerability-Managment</a>|
-| Incident Response         | <a href="https://github.com/Shae-J/Incident Response Lab">Incident Response Lab</a>|
+| Incident Response         | <a href="https://github.com/Shae-J/Incident-Response)/Incident Response Lab">Incident Response Lab</a>|
 | Security with AWS: Identity and Access Management (IAM)      | <a href="https://github.com/Shae-J/Identity and Access Management">Identity and Access Management (IAM)</a> |
 | Lab               | SOC Lab|
 | Lab | SOC Lab|
