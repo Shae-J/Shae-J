@@ -17,9 +17,9 @@ Together, let's secure the digital future!
 | Creating a Live SOC/Honeynet in Azure         | <a href="https://github.com/Shae-J/Cloud-Honeynet">Cloud-Honeynet Lab</a>|
 | Vulnerability Management Lab with Nessus| <a href="https://google.com">Detection Lab</a>|
 | Incident Response         | <a href="https://github.com/Shae-J/Incident Response Lab">Incident Response Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security with AWS: Identity and Access Management (IAM)      | <a href="https://github.com/Shae-J/Identity and Access Management">Identity and Access Management (IAM)</a> |
+| Lab               | SOC Lab|
+| Lab | SOC Lab|
 <!--
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
